@@ -1,7 +1,23 @@
 html{
-	background-image:url("R.S.L.png");
+	background-image:url("tester.jpg");
     background-color: white;
 	background-size: cover;
     background-repeat: no-repeat;
 	background-position:top;
+}
+
+.fix{
+    position:absolute;
+    bottom:40px;
+    right:50px;
+}
+
+.fix1{
+	position:absolute;
+    bottom:16px;
+    left:20px;
+}
+
+.audio { 
+	width: 200px; 
 }
