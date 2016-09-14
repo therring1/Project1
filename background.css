@@ -10,12 +10,16 @@ html{
     position:absolute;
     bottom:40px;
     right:50px;
+	width:200px;
+	height:100px;
 }
 
 .fix1{
 	position:absolute;
     bottom:16px;
     left:20px;
+	width:200px;
+	height:100px;
 }
 
 .audio { 

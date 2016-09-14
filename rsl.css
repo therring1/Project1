@@ -36,12 +36,16 @@ figure .image {
     position:absolute;
     bottom:8px;
     right:16px;
+	width:200px;
+	height:100px;
 }
 
 .fix1{
 	position:absolute;
     bottom:8px;
     left:16px;
+	width:100px;
+	height:100px;
 }
 
 .size{
@@ -56,8 +60,8 @@ figure .image {
 
 .size3{
 	width:304px;
-	height:228px;
-	padding:15px;
+	height:168px;
+	padding:0px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -72,9 +76,4 @@ html{
 	background-size:cover;
 	background-repeat:no-repeat;
 	padding:20px;
-}
-
-video{
-	width=400px;
-	display:center;
 }
